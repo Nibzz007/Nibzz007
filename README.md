@@ -1,7 +1,5 @@
-<h1 align="center">Hey, I'm Nibu 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=13B9FD&center=true&vCenter=true&width=520&lines=Flutter+Developer+at+goSTOPS;I+build+cross-platform+apps;Dart,+Firebase,+clean+UI" alt="Typing SVG" />
+  <img src="./hero.svg" width="100%" alt="Nibu Krishna M.V. - Flutter Developer"/>
 </p>
 
 <p align="center">
