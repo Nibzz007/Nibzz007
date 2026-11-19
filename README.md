@@ -1,45 +1,47 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/nibu-krishna-m-v-311546237/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nibzz007&style=flat-square&color=blue" alt=""/>
-</div>
-<div id="gif" align="center">
-  <h1>
-  hey there
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNsNDZhcXNtZWt2YmVobTludTgyeDNxYjRmOTAxY3pnMmdzaTFyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNsNDZhcXNtZWt2YmVobTludTgyeDNxYjRmOTAxY3pnMmdzaTFyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Hi,%20I'm%20Nibu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Tech+Lead+%40+goSTOPS;Building+apps+travellers+love+✈️" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
-### :woman_technologist: About Me : I am a Flutter Developer from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### 🚀 About me
 
-- :seedling: Exploring Technical Content Writing.
+- 📱 **Flutter developer** with 3 years of experience
+- 🧭 **Tech lead at [goSTOPS](https://www.gostops.com)**, a hostel & travel platform
+- 🛠️ I build the guest app and **goCREW**, our staff app
+- 📝 I also own FSD docs, QA coordination and App Store / Play Store releases
+- 🌱 Currently exploring Next.js and web design
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+### 🧰 Tech stack
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nibu-krishna-m-v-311546237/)
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode,nextjs,react,ts,git,github,figma,vscode&perline=6" />
+</p>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-</div>
+### 📊 GitHub stats
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=100&section=footer" width="100%"/>
