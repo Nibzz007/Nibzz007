@@ -1,8 +1,13 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Hi,%20I'm%20Nibu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Nibu%20Krishna%20M.V.&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Flutter%20Developer%20·%20Bengaluru&descAlignY=70" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Mobile+Apps+%40+goSTOPS;Building+apps+travellers+love+✈️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Building+travel+apps+%40+goSTOPS+✈️;Clean+UI+%2B+smooth+UX" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nibzz007"><img src="https://komarev.com/ghpvc/?username=Nibzz007&style=flat-square&color=13B9FD&label=Profile+views"/></a>
+  <a href="https://github.com/Nibzz007?tab=followers"><img src="https://img.shields.io/github/followers/Nibzz007?style=flat-square&color=02569B&label=Followers"/></a>
 </p>
 
 <p align="center">
@@ -15,16 +20,33 @@
 
 ### 🚀 About me
 
-- 📱 **Flutter developer** with 3 years of experience
-- 🧭 Building apps at **[goSTOPS](https://www.gostops.com)**, a hostel & travel platform
-- 🛠️ I build the guest app and **goCREW**, our staff app
-- 📝 I also work on FSD docs, QA coordination and App Store / Play Store releases
-- 🌱 Currently exploring Next.js and web design
+- 📱 **Flutter developer** at **goSTOPS Hospitality Pvt. Ltd.**, Bengaluru
+- 🧳 Building the goSTOPS guest app and **goCREW**, our staff app
+- ⏳ 3 years of building cross-platform apps with Flutter & Dart
+- 🛒 Side projects: e-commerce with Razorpay, music players, GetX apps
+- 🌱 Currently exploring Next.js for the web
 
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode,nextjs,react,ts,git,github,figma,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode,html,css,js,nextjs,git,github,figma,vscode&perline=7" />
+</p>
+
+### 📌 Featured projects
+
+<p align="center">
+  <a href="https://github.com/Nibzz007/CARTZONE-E-commerce-application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nibzz007&repo=CARTZONE-E-commerce-application&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Nibzz007/musica_player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nibzz007&repo=musica_player&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Nibzz007/Student_app-GetX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nibzz007&repo=Student_app-GetX&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Nibzz007/music_player_updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nibzz007&repo=music_player_updated&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ### 📊 GitHub stats
