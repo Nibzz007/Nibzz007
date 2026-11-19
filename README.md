@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Nibu%20Krishna%20M.V.&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Flutter%20Developer%20·%20Bengaluru&descAlignY=70" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Building+travel+apps+%40+goSTOPS+✈️;Clean+UI+%2B+smooth+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Building+travel+apps+at+goSTOPS;Clean+UI,+smooth+UX" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nibu-krishna-m-v-311546237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nibukrishna07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -23,13 +22,11 @@
 - 📱 **Flutter developer** at **goSTOPS Hospitality Pvt. Ltd.**, Bengaluru
 - 🧳 Building the goSTOPS guest app and **goCREW**, our staff app
 - ⏳ 3 years of building cross-platform apps with Flutter & Dart
-- 🛒 Side projects: e-commerce with Razorpay, music players, GetX apps
-- 🌱 Currently exploring Next.js for the web
 
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode,html,css,js,nextjs,git,github,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,xcode,html,css,js,git,github,figma,vscode&perline=7" />
 </p>
 
 ### 📌 Featured projects
